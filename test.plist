@@ -11,7 +11,7 @@
                     <key>kind</key>  
                     <string>software-package</string>  
                     <key>url</key>  
-                    <string>http://www.panda678.com:81/download/phone/Plaza.ipa</string>  
+                    <string>http://www.panda678.com:83/Client/Plaza.ipa</string>  
                 </dict>  
                 <dict>  
                     <key>kind</key>  
@@ -19,7 +19,7 @@
                     <key>needs-shine</key>  
                     <true/>  
                     <key>url</key>  
-                    <string>http://www.panda678.com:81/download/Icon/Icon512.png</string>  
+                    <string>http://www.panda678.com:83/Icon/Icon512.png</string>  
                 </dict>  
                 <dict>  
                     <key>kind</key>  
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <true/>  
                     <key>url</key>  
-                    <string>http://www.panda678.com:81/download/Icon/Icon57.png</string>  
+                    <string>http://www.panda678.com:83/Icon/Icon57.png</string>  
                 </dict>  
             </array>  
             <key>metadata</key>  
